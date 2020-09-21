@@ -16,7 +16,8 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("first time :)");
+        System.out.println("1st time :)");
+        System.out.println("2nd time :)");
     }
     
 }
